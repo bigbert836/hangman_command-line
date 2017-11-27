@@ -1,0 +1,22 @@
+{
+  "name": "hangman_command-line",
+  "version": "1.0.0",
+  "description": "Hangman Game for command line",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigbert836/hangman_command-line.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigbert836/hangman_command-line/issues"
+  },
+  "homepage": "https://github.com/bigbert836/hangman_command-line#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
